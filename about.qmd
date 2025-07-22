@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-About this site...the new Github Pages site
